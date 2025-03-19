@@ -57,3 +57,7 @@ class Teacher(BasePerson):
 
     class Meta:
         ordering = ['teacher_id']
+
+
+
+# Path: api/serializers.py
